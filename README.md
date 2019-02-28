@@ -13,5 +13,3 @@
     </ul>
   </li>
 </ul>
-
-Java RESTful service example - data is considered to be a "resource" and every resource is represented by a URI
